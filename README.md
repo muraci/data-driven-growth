@@ -12,4 +12,4 @@ Bu seride, pazarlama odağında müşteri davranış analizleri ve tahminleri ya
 > - Predicting Sales
 > - Market Response Models
 > - Uplift Modeling
-> - AB Testing Design and Execution
+> - A/B Testing Design and Execution
